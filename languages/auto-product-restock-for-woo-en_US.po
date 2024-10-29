@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Auto Product Restock for Woo\n"
+"Language: en\n"
+
+#: includes/class-wc-auto-restock.php:32
+msgid "Restock Date"
+msgstr "Restock Date"
+
+#: includes/class-wc-auto-restock.php:34
+msgid "Enter the expected restock date (YYYY-MM-DD)."
+msgstr "Enter the expected restock date (YYYY-MM-DD)."
+
+#: includes/class-wc-auto-restock.php:36
+msgid "Restock Quantity"
+msgstr "Restock Quantity"
+
+#: includes/class-wc-auto-restock.php:38
+msgid "Enter the expected restock quantity."
+msgstr "Enter the expected restock quantity."
+
+#: includes/class-wc-auto-restock.php:90
+msgid "Expected back in stock: %s"
+msgstr "Expected back in stock: %s"
+
+#: includes/class-wc-auto-restock.php:156
+msgid "Auto Restock Interval"
+msgstr "Auto Restock Interval"
+
+#: includes/class-wc-auto-restock-settings.php:10
+msgid "Auto Restock Settings"
+msgstr "Auto Restock Settings"
+
+#: includes/class-wc-auto-restock-settings.php:30
+msgid "Display Position"
+msgstr "Display Position"
+
+#: includes/class-wc-auto-restock-settings.php:35
+msgid "Cron Schedule"
+msgstr "Cron Schedule"
+
+#: includes/class-wc-auto-restock-settings.php:47
+msgid "After Product Summary"
+msgstr "After Product Summary"
+
+#: includes/class-wc-auto-restock-settings.php:48
+msgid "Before Product Summary"
+msgstr "Before Product Summary"
+
+#: includes/class-wc-auto-restock-settings.php:49
+msgid "Before Product Meta"
+msgstr "Before Product Meta"
+
+#: includes/class-wc-auto-restock-settings.php:50
+msgid "After Product Meta"
+msgstr "After Product Meta"
+
+#: includes/class-wc-auto-restock-settings.php:55
+msgid "Enter the number of hours between each cron job run. Default is 4 hours."
+msgstr "Enter the number of hours between each cron job run. Default is 4 hours."
+
+#: includes/class-wc-auto-restock-settings.php:57
+msgid "Sync Now"
+msgstr "Sync Now"
+
+#: auto-product-restock-for-woo.php:28
+msgid "Settings"
+msgstr "Settings"
